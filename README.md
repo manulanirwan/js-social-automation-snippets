@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="thumbnail-8b4884ed-cd2a-4425-bf32-32092756a01a" src="https://github.com/user-attachments/assets/e64d65a2-457e-417f-9716-070a6a985400" />
 # Browser Automation: Auto-Follow & Auto-Unfollow Scripts
 
 A collection of lightweight, vanilla JavaScript automation snippets designed to be executed directly within a browser's developer console. These scripts automate the process of clicking "Follow" and "Unfollow" buttons on social media or networking web platforms by interacting directly with the DOM.
